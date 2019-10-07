@@ -1,2 +1,2 @@
-Looking forward to the learn git :octocat: !
+Looking forward to learn more about the git :octocat: !
 :smile:
